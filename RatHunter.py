@@ -3,7 +3,7 @@
 """
 RAT Hunter - Advanced RAT Virus Detection System
 Продвинутая система обнаружения RAT-вирусов
-Version: 2.0
+Version: 1.0
 Python: 3.12.5
 """
 
@@ -1751,4 +1751,5 @@ def main():
     app.run()
 
 if __name__ == "__main__":
+
     main()
