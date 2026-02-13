@@ -59,7 +59,7 @@ python rat_hunter_standalone.py
 Educational purposes only. Author not responsible for misuse. Backup data before scanning.
 📄 License
 
-MIT License © 2024 fernarmagellan
+MIT License © 2026 fernarmagellan
 🤝 Contributing
 
 Fork → Create branch → Commit → Push → Pull Request
